@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu GitHub!
 
-<div style="">
+<div style="margin-left: auto; margin-right:auto;">
   <a href="https://github.com/natali-schers">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=compact&langs_count=7&theme=dracula"/>

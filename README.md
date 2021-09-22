@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img height="200em" width="200em" src="https://github.com/natali-schers/natali-schers.github.io/blob/main/img/natis.gif">
+  <img width="800px" src="https://github.com/natali-schers/natali-schers.github.io/blob/main/img/natalischers.gif">
 </div>
 
 <br>

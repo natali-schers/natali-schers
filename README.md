@@ -7,7 +7,7 @@
 </div>
 
  
-<h3 align="center">Entre em Contato!</h3>
+<h3 align="center">Entre em Contato</h3>
 <div align="center">
   <a href="mailto:natalischers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/natali-schers/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
@@ -36,10 +36,7 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
 </div>
 
-
- 
- <br>
- <br>
+  <hr/>
 
 <div align="center">
   <a href="https://github.com/natali-schers">

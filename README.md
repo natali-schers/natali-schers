@@ -23,7 +23,7 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-361754?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white">
-<img alt="SQLServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=sqlserver&logoColor=white">  
+<img alt="SQL" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">  
   
  <br>
  <br>

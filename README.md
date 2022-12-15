@@ -11,7 +11,8 @@
 <div align="center">
   <a href="mailto:natalischers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natali-schers/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-  <a href="https://wa.me/5511910477782"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511910477782"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_snatis_/"><img src"https://img.shields.io/badge/Instagram-f06ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
  <br>

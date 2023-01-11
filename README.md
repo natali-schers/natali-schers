@@ -35,13 +35,5 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1919?style=for-the-badge&logo=figma&logoColor=white">   
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
 </div>
-
-  <hr/>
-
-<div align="center">
-  <a href="https://github.com/natali-schers">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
  ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

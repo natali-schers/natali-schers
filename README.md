@@ -37,7 +37,7 @@
 </div>
   
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical&layout=compact)](https://github.com/natali-schers/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
   ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=radical)
 </div>
   

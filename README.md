@@ -5,7 +5,6 @@
 <div align="center">
   <img width="800px" src="https://github.com/natali-schers/natali-schers.github.io/blob/main/img/natali-schers.gif">
 </div>
-
  
 <h3 align="center">Entre em Contato</h3>
 <div align="center">
@@ -15,7 +14,7 @@
   <a href="https://www.instagram.com/_snatis_/"><img src="https://img.shields.io/badge/Instagram-f06ebe?style=for-the-badge&logo=instagram&logoColor=white" t="Instagram"></a>
 </div>
   
- <br>
+<br>
    
 <h3 align="center">Linguagens, Frameworks e Softwares<h3/>
 <div align="center">
@@ -36,9 +35,10 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
 </div>
   
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
-  ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=radical)
+<br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
+![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=radical)
 
   
  ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

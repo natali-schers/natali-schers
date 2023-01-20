@@ -33,11 +33,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-eb5757?style=for-the-badge&logo=notion&logoColor=white">   
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1919?style=for-the-badge&logo=figma&logoColor=white">   
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
 </div>
-  
-<br>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
   
 ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

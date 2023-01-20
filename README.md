@@ -37,6 +37,6 @@
   
 <br>
  
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical)](https://github.com/natali-schers/github-readme-stats)
   
 ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

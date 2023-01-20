@@ -40,5 +40,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=radical&layout=compact)](https://github.com/natali-schers/github-readme-stats)
 ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=radical)
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
   
  ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

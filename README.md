@@ -36,4 +36,11 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
 </div>
   
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natali-schers&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natali-schers&repo=convoychat" />
+</a>
+  
  ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

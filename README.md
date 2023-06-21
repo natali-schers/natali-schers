@@ -45,5 +45,10 @@
 </div>
 
 <br>
- 
-![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)
+
+
+ <div align="center">
+<a href="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg" />
+</a>
+</div>

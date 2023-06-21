@@ -23,7 +23,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="C#" src="https://img.shields.io/badge/C%23-361754?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-3c9ab4?style=for-the-badge&logo=react&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-bdaf55?style=for-the-badge&logo=sql&logoColor=white">    
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
   <img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">   
@@ -34,13 +33,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1919?style=for-the-badge&logo=figma&logoColor=white">   
 </div>
 
-<div width="50%">
-  ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)
-</div>
-<div width="50%">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=donut&theme=dracula)](https://github.com/natali-schers/github-readme-stats)
-</div>
+![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=donut&theme=dracula)](https://github.com/natali-schers/github-readme-stats)
  
-  
-
 ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

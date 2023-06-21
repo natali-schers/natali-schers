@@ -36,19 +36,18 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/natali-schers/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula&hide_title=true" />
-</a>
-<a href="https://github.com/natali-schers/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=dracula&layout=compact" />
-</a>
+  <a href="https://github.com/natali-schers/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula&hide_title=true" />
+  </a>
+  <a href="https://github.com/natali-schers/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=dracula&layout=compact" />
+  </a>
 </div>
 
 <br>
 
-
- <div align="center">
-<a href="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg" />
-</a>
+<div align="center">
+  <a href="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg" />
+  </a>
 </div>

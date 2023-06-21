@@ -34,7 +34,10 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1919?style=for-the-badge&logo=figma&logoColor=white">   
 </div>
 
-
+<div align="center">
+  <img width="800px" src="[https://github.com/natali-schers/natali-schers.github.io/blob/main/img/natali-schers.gif](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)">
+</div>
+ 
   ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=donut&theme=dracula)](https://github.com/natali-schers/github-readme-stats)
 ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

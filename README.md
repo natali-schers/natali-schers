@@ -35,7 +35,7 @@
 <br>
 
   ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=dracula)](https://github.com/natali-schers/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&theme=dracula&layout=compact)](https://github.com/natali-schers/github-readme-stats)
 
 <br>
  

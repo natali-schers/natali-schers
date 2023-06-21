@@ -36,5 +36,5 @@
 
 
   ![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=natali-schers&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&hide_progress=true&theme=dracula&layout=donut)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natali-schers&layout=donut&theme=dracula)](https://github.com/natali-schers/github-readme-stats)
 ![Snake animation](https://github.com/natali-schers/natali-schers/blob/output/github-contribution-grid-snake.svg)

@@ -29,7 +29,7 @@ Tenho paixão por criar soluções eficientes, interfaces intuitivas e experiên
 
 ## 🌱 Objetivo profissional
 
-Me tornar um desenvolvedora front-end cada vez mais completa, participando de projetos que impactem positivamente a vida das pessoas.
+Me tornar uma profissional cada vez mais completa, participando de projetos que impactem positivamente a vida das pessoas.
 
 ---
 

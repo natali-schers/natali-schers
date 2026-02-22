@@ -37,6 +37,4 @@ Me tornar uma profissional cada vez mais completa, participando de projetos que 
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/natali-schers/](https://www.linkedin.com/in/natali-schers/)
 
-📸 **Instagram:** [https://www.instagram.com/natali_schers/](https://www.instagram.com/natali_schers/) 
-
 💼 **Portfólio:** [https://natali-schers.github.io/](https://natali-schers.github.io/) 
